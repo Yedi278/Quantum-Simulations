@@ -1,0 +1,5 @@
+numpy<2.0
+matplotlib==3.7.1
+pylatexenc
+qiskit==2.0.0
+qiskit-aer
